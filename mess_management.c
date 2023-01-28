@@ -12,6 +12,7 @@ int check_time(float ,float ,char *); // function to check the current time and 
 void mess_time(); // function to display the timings of all meals
 
 
+
 int main()
 {
     char id[100],reg_id[100];
