@@ -120,7 +120,7 @@ int check_time(float t1, float t2,char *z)
     local_time->tm_hour +=5;
     local_time->tm_min +=30;
     mktime(local_time);
-    float t= local_time->tm_hour + (local_time->tm_min/0.6);
+    float t= local_time->tm_hour + (local_time->tm_min/6*0.1);
     if( t>=t1 && t<=t2  )
     {
     printf("\n\n\t\t\tENJOY YOUR %s :)\n\n\n",z);
