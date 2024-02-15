@@ -1,2 +1,2 @@
-# Mess-management-system
-# This program is a mess management system that allows users to check the timings of different meals and whether they are currently open or not.
+# Campus Cuisine: Optimizing Mealtime Management for University Students
+# This project entails developing a mess management system that enables users to check the timings of various meals and their current availability status.
